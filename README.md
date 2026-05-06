@@ -1,0 +1,2 @@
+# Advanced-DeepLearning-Codes-RNN-LSTM-BERT-VAE-GAN-GCN
+This series covers sequence modeling (RNN, LSTM, GRU comparison), text classification &amp; translation using Seq2Seq, attention heatmap visualization, fine-tuning BERT for QA/sentiment, and generative models (VAE, GAN) plus GCN on graph data. Each lab includes training, evaluation, and visualization for practical deep learning understanding.
